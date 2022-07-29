@@ -1,2 +1,2 @@
 # fctDEMO
-from gl.com
+from gl.co
